@@ -8,6 +8,7 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -16,4 +17,12 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
