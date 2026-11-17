@@ -18,6 +18,7 @@ My solutions to LeetCode problems using Python.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -32,5 +33,10 @@ My solutions to LeetCode problems using Python.
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
