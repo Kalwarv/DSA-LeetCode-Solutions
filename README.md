@@ -7,6 +7,7 @@ My solutions to LeetCode problems using Python.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -28,4 +29,8 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
