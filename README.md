@@ -20,6 +20,7 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -36,9 +37,15 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0989-add-to-array-form-of-integer](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## String
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
