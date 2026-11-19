@@ -10,6 +10,7 @@ My solutions to LeetCode problems using Python.
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
@@ -33,6 +34,7 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -56,6 +58,7 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
