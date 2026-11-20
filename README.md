@@ -10,6 +10,7 @@ My solutions to LeetCode problems using Python.
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0289-game-of-life](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -17,12 +18,14 @@ My solutions to LeetCode problems using Python.
 ## Matrix
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
