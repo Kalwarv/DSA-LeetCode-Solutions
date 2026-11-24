@@ -8,6 +8,7 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -35,12 +36,14 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
