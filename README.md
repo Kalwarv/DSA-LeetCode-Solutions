@@ -16,6 +16,7 @@ My solutions to LeetCode problems using Python.
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 ## Matrix
@@ -38,6 +39,7 @@ My solutions to LeetCode problems using Python.
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -47,6 +49,7 @@ My solutions to LeetCode problems using Python.
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -75,4 +78,12 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
