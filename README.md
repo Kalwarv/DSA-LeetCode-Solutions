@@ -9,6 +9,7 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -38,6 +39,7 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -47,6 +49,7 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0015-3sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
