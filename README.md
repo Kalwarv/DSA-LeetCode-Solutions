@@ -13,6 +13,7 @@ My solutions to LeetCode problems using Python.
 | [0066-plus-one](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -43,6 +44,7 @@ My solutions to LeetCode problems using Python.
 | [0088-merge-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0881-boats-to-save-people](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -75,6 +77,7 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0067-add-binary](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +89,7 @@ My solutions to LeetCode problems using Python.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +107,9 @@ My solutions to LeetCode problems using Python.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kalwarv/DSA-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
